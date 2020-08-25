@@ -845,7 +845,7 @@ a[class^=ais-] {
 }
 
 .ais-SearchBox-submit {
-    left: .3rem
+    display: none;
 }
 
 .ais-SearchBox-reset {
